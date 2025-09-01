@@ -1,0 +1,13 @@
+.env
+venv/
+# VS Code
+.vscode/
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+# Python bytecode
+__pycache__/
+*.py[cod]
+# Logs
+*.log
+# MacOS
+.DS_Store
